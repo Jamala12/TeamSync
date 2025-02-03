@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Mhk8zdtODsOGyHIagWbtPLHc1sVFHFF6mDHEUpRxLuRgtsUQzIBee7tAB3DvA+JF7tUDpqM+RBzYeEK2mVrlXw==",
+  "dgSpecHash": "LesH3AJ+n4RovUKWnsYZB3vCG/R0A9fuVYCFF9srEDnt5X0sh/IJLFg+2/6+cD/qfF17tL3U1smNn8vpPYLdYw==",
   "success": true,
   "projectFilePath": "/Users/jamal/TeamSync/backend/backend.csproj",
   "expectedPackageFiles": [
@@ -30,10 +30,10 @@
     "/Users/jamal/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/jamal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/jamal/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
-    "/Users/jamal/.nuget/packages/mongodb.bson/2.28.0/mongodb.bson.2.28.0.nupkg.sha512",
-    "/Users/jamal/.nuget/packages/mongodb.driver/2.28.0/mongodb.driver.2.28.0.nupkg.sha512",
-    "/Users/jamal/.nuget/packages/mongodb.driver.core/2.28.0/mongodb.driver.core.2.28.0.nupkg.sha512",
-    "/Users/jamal/.nuget/packages/mongodb.libmongocrypt/1.11.0/mongodb.libmongocrypt.1.11.0.nupkg.sha512",
+    "/Users/jamal/.nuget/packages/mongodb.bson/2.29.0/mongodb.bson.2.29.0.nupkg.sha512",
+    "/Users/jamal/.nuget/packages/mongodb.driver/2.29.0/mongodb.driver.2.29.0.nupkg.sha512",
+    "/Users/jamal/.nuget/packages/mongodb.driver.core/2.29.0/mongodb.driver.core.2.29.0.nupkg.sha512",
+    "/Users/jamal/.nuget/packages/mongodb.libmongocrypt/1.12.0/mongodb.libmongocrypt.1.12.0.nupkg.sha512",
     "/Users/jamal/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
     "/Users/jamal/.nuget/packages/serilog.aspnetcore/8.0.2/serilog.aspnetcore.8.0.2.nupkg.sha512",
     "/Users/jamal/.nuget/packages/serilog.extensions.hosting/8.0.0/serilog.extensions.hosting.8.0.0.nupkg.sha512",
